@@ -1,3 +1,10 @@
+Objetivo del repo:
+-Diferencias entre componentes funcionales y componentes de clases
+-Empleo de librerias de componentes: Material UI
+-Uso de hook useState para entender el estado de react
+-Creación de un formulario controlado
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
